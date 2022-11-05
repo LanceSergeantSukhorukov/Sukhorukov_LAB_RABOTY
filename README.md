@@ -9,7 +9,7 @@
 
 [Ссылка на личный репозиторий](https://github.com/LanceSergeantSukhorukov/Sukhorukov_LAB_RABOTY)
 
-[Ссылка на личную страницу](https://github.com/LanceSergeantSukhorukov/Sukhorukov_LAB_RABOTY)
+[Ссылка на личную страницу](https://lancesergeantsukhorukov.github.io/Sukhorukov_LAB_RABOTY/)
 ## ⭐Лабораторная работа №2
 Разработка простого веб-приложения (html,css,js + json,xml):
 

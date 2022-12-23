@@ -30,3 +30,5 @@
 Ответы на выбранный билет:
 
 [Билет №11](https://github.com/stankin/inet-2022/wiki/exam11)
+
+[Личный вклад](https://github.com/stankin/inet-2022/wiki/exam11/_compare/ce662284b3bf5519e8082b1ba7df5fb8804c460f...fa2395df24c38a5d2f6cb37bba45d9016351418c)
